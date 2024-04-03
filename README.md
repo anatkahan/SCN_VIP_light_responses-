@@ -1,0 +1,48 @@
+# SCN_VIP_light_responses
+SCN-VIP Light Response Code: 
+
+
+Figure 1: 
+plot_mono_syn_tracing_results
+
+Figure 2: 
+all_lumencore_dF
+FP_analysis_lumencore
+Light_spectrum_SpectraX
+read_opn4_digitized_data.m
+
+
+Figures 3 and 4: 
+read_test6R_FP_general;
+get_exp_info_test6R_FP_v2;
+FP_analysis_individual_test6R_with_params;
+finds_light_status;
+get_df_from_raw_data2;
+
+Figure 5: 
+get_Inscopix_test6R_sessions
+get_Inscopix_single_trial_v3
+get_df_from_raw_data_v4
+
+get_Inscopix_test6Rred_sessions
+Inscopix_calculate_params_after_cell_clustering
+
+Figure 6: 
+get_Inscopix_multiple_test6R_sessions_v1
+get_Inscopix_single_trial_multiple_test6R_sessions
+get_df_from_raw_data_v4
+run_Inscopix_calculate_params_after_cell_clustering
+run_Inscopix_calculate_params_after_cell_clustering_opn4
+Inscopix_test6R_sessions_opn4_plots
+
+Figure S4: 
+Light_spectrum_animal_facility
+read_test6R_red_vs_full
+FP_analysis_individual_test6R
+
+
+Also includes: 
+Get_wavelength_n_photons
+plot_curve_with_SEM
+
+
